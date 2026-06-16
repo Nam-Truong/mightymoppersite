@@ -1,1 +1,0 @@
-import{_ as o,c as n,b as a,w as c,V as s,o as r,d as _}from"./B7rytXsT.js";const m={};function u(d,t){const e=s;return r(),n("div",null,[a(e,{name:"custom",title:"I am a custom layout"},{header:c(()=>t[0]||(t[0]=[_(" post-002 content ")])),_:1})])}const p=o(m,[["render",u]]);export{p as default};
