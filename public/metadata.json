@@ -1,0 +1,12 @@
+[
+  { "item": "bedroom", "price": 60 },
+  { "item": "living room", "price": 50 },
+  { "item": "kitchen", "price": 70 },
+  { "item": "laundry", "price": 40 },
+  { "item": "bathroom", "price": 60 },
+  { "item": "toilet", "price": 50 },
+  { "item": "courtyard", "price": 70 },
+  { "item": "shed", "price": 50 },
+  { "item": "garden", "price": 90 },
+  { "item": "End of Lease Cleaning", "price": 220 }
+]
